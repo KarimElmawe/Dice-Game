@@ -1,0 +1,51 @@
+.container {
+  padding-top: 3%;
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #252525;
+}
+h1 {
+  padding-bottom: 5%;
+  font-family: 'Ranchers', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 5rem;
+  color: #00adb5;
+}
+
+p {
+  font-size: 2rem;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+.player1 {
+    color: #e84a5f;
+}
+
+.player2 {
+    color: #e4f9f5;
+}
+
+img {
+  width: 80%;
+}
+
+.button {
+  display: inline-block;
+  margin: 7% auto;
+  margin-right: 10%;
+}
+.alert {
+  color: white;
+  border: 1px solid;
+  border-color: red;
+  visibility: hidden;
+}
